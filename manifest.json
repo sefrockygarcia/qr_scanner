@@ -17,5 +17,6 @@
   "theme_color": "#00BFFF",
   "background_color": "#FFFFFF",
   "display": "standalone",
-  "start_url": "/index.html"
+  "start_url": "/qr_scanner/",
+  "scope": "/qr_scanner/",
 }
